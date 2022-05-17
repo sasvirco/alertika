@@ -1,2 +1,3 @@
 alertika-deployment.yaml
 /bin
+Makefile-local
